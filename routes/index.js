@@ -1,4 +1,4 @@
-<!--index finished for routes-->
+/*index finished for routes*/
 var express = require('express');
 var router = express.Router();
 
