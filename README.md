@@ -12,3 +12,6 @@ Technologies:
 
 Deployment:
 Render
+
+Logo:
+We ai Generated our logo!
